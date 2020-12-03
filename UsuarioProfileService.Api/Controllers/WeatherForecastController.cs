@@ -8,7 +8,7 @@ using Microsoft.Extensions.Logging;
 namespace Revifast.Api.Controllers
 {
     [ApiController]
-    [Route("welcome")]
+    [Route("")]
     public class WeatherForecastController : ControllerBase
     {
         private static readonly string[] Summaries = new[]
@@ -16,7 +16,7 @@ namespace Revifast.Api.Controllers
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
-        private static readonly string bienvenida = "Bienvenido a ReviFast";
+        private static readonly string bienvenida = "Bienvenido a UserProfile microservice. Entrar a https://userprofileservicefas.azurewebsites.net/swagger/index.html para más información.";
 
         private readonly ILogger<WeatherForecastController> _logger;
 
@@ -25,21 +25,10 @@ namespace Revifast.Api.Controllers
             _logger = logger;
         }
 
-        [HttpGet]
-        public IEnumerable<WeatherForecast> Get()
-        {
-            var rng = new Random();
-            return Enumerable.Range(1, 5).Select(index => new WeatherForecast
-            {
-                Date = DateTime.Now.AddDays(index),
-                TemperatureC = rng.Next(-20, 55),
-                Summary = Summaries[rng.Next(Summaries.Length)]
-            })
-            .ToArray();
-        }
+        
 
         [HttpGet]
-        [Route("/api")]
+        [Route("")]
         public String GetWelcome()
         {
             return bienvenida;
