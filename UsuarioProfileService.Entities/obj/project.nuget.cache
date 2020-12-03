@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H9bThEkhlV5wD3ULWdwjp9MLFjJAbHpznuzwHGp2b+TmdQRUBowzF5LTIrOH8uk6fcRXE+vW6spUJv/XDv8gmg==",
+  "dgSpecHash": "6pEMLqLTRobl1YVYMRcYUP/yOifzfggtMesZF3D5Ce0SUIFJM9JMOeZu9KTNf7oIdhKwIIvggg52u4BCcndR1A==",
   "success": true,
-  "projectFilePath": "D:\\UPC\\UserProfileService\\UsuarioProfileService\\UsuarioProfileService.Entities\\UsuarioProfileService.Entities.csproj",
+  "projectFilePath": "D:\\UPC\\fsdf\\UsuarioProfileService\\UsuarioProfileService.Entities\\UsuarioProfileService.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hilla\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\hilla\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
@@ -10,9 +10,9 @@
     "C:\\Users\\hilla\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.2\\swashbuckle.aspnetcore.swagger.5.6.2.nupkg.sha512",
     "C:\\Users\\hilla\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.2\\swashbuckle.aspnetcore.swaggergen.5.6.2.nupkg.sha512",
     "C:\\Users\\hilla\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.2\\swashbuckle.aspnetcore.swaggerui.5.6.2.nupkg.sha512",
-    "C:\\Users\\hilla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
     "C:\\Users\\hilla\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
-    "C:\\Users\\hilla\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+    "C:\\Users\\hilla\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\hilla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,0 +1,7 @@
+D:\UPC\fsdf\UsuarioProfileService\bin\UsuarioProfileService.Entities.dll
+D:\UPC\fsdf\UsuarioProfileService\bin\UsuarioProfileService.Entities.deps.json
+D:\UPC\fsdf\UsuarioProfileService\bin\UsuarioProfileService.Entities.pdb
+D:\UPC\fsdf\UsuarioProfileService\bin\Microsoft.OpenApi.dll
+D:\UPC\fsdf\UsuarioProfileService\bin\Swashbuckle.AspNetCore.Swagger.dll
+D:\UPC\fsdf\UsuarioProfileService\bin\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\UPC\fsdf\UsuarioProfileService\bin\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -29,14 +29,12 @@ namespace Revifast.Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            // conexion a la base de datos, referenciar a Revifast.Data
-            // se cambia la migracion a Revifast.Data con MigrationsAssembly
             services.AddDbContext<DbUsuarioProfileContext>(options =>
             options.UseSqlServer(
-                "Data Source = SQL5092.site4now.net; Initial Catalog = DB_A6B02D_DbRevifast; User Id = DB_A6B02D_DbRevifast_admin; Password = revifast1",
-                migration => migration.MigrationsAssembly("Revifast.Api")));
+                Configuration.GetConnectionString("DefaultConnection"), 
+                migration => migration.MigrationsAssembly("UserProfile.Api")));
 
-            services.AddCors(options => options.AddPolicy("pelusa", builder => builder.WithOrigins("*").WithHeaders("*").WithMethods("*")));
+            services.AddCors(options => options.AddPolicy("Cors", builder => builder.WithOrigins("*").WithHeaders("*").WithMethods("*")));
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "My API", Version = "v1" });

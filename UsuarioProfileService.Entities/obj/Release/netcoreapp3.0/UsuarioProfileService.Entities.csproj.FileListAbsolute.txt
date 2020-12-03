@@ -1,0 +1,9 @@
+D:\UPC\fsdf\UsuarioProfileService\UsuarioProfileService.Entities\bin\Release\netcoreapp3.0\UsuarioProfileService.Entities.deps.json
+D:\UPC\fsdf\UsuarioProfileService\UsuarioProfileService.Entities\bin\Release\netcoreapp3.0\UsuarioProfileService.Entities.dll
+D:\UPC\fsdf\UsuarioProfileService\UsuarioProfileService.Entities\bin\Release\netcoreapp3.0\UsuarioProfileService.Entities.pdb
+D:\UPC\fsdf\UsuarioProfileService\UsuarioProfileService.Entities\obj\Release\netcoreapp3.0\UsuarioProfileService.Entities.csprojAssemblyReference.cache
+D:\UPC\fsdf\UsuarioProfileService\UsuarioProfileService.Entities\obj\Release\netcoreapp3.0\UsuarioProfileService.Entities.AssemblyInfoInputs.cache
+D:\UPC\fsdf\UsuarioProfileService\UsuarioProfileService.Entities\obj\Release\netcoreapp3.0\UsuarioProfileService.Entities.AssemblyInfo.cs
+D:\UPC\fsdf\UsuarioProfileService\UsuarioProfileService.Entities\obj\Release\netcoreapp3.0\UsuarioProfileService.Entities.csproj.CoreCompileInputs.cache
+D:\UPC\fsdf\UsuarioProfileService\UsuarioProfileService.Entities\obj\Release\netcoreapp3.0\UsuarioProfileService.Entities.dll
+D:\UPC\fsdf\UsuarioProfileService\UsuarioProfileService.Entities\obj\Release\netcoreapp3.0\UsuarioProfileService.Entities.pdb

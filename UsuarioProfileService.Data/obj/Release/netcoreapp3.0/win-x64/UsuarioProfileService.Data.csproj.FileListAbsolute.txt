@@ -1,0 +1,15 @@
+D:\UPC\fsdf\UsuarioProfileService\UsuarioProfileService.Data\bin\Release\netcoreapp3.0\win-x64\UsuarioProfileService.Data.deps.json
+D:\UPC\fsdf\UsuarioProfileService\UsuarioProfileService.Data\bin\Release\netcoreapp3.0\win-x64\UsuarioProfileService.Data.runtimeconfig.json
+D:\UPC\fsdf\UsuarioProfileService\UsuarioProfileService.Data\bin\Release\netcoreapp3.0\win-x64\UsuarioProfileService.Data.runtimeconfig.dev.json
+D:\UPC\fsdf\UsuarioProfileService\UsuarioProfileService.Data\bin\Release\netcoreapp3.0\win-x64\UsuarioProfileService.Data.dll
+D:\UPC\fsdf\UsuarioProfileService\UsuarioProfileService.Data\bin\Release\netcoreapp3.0\win-x64\UsuarioProfileService.Data.pdb
+D:\UPC\fsdf\UsuarioProfileService\UsuarioProfileService.Data\bin\Release\netcoreapp3.0\win-x64\UsuarioProfileService.Entities.dll
+D:\UPC\fsdf\UsuarioProfileService\UsuarioProfileService.Data\bin\Release\netcoreapp3.0\win-x64\UsuarioProfileService.Entities.pdb
+D:\UPC\fsdf\UsuarioProfileService\UsuarioProfileService.Data\obj\Release\netcoreapp3.0\win-x64\UsuarioProfileService.Data.csprojAssemblyReference.cache
+D:\UPC\fsdf\UsuarioProfileService\UsuarioProfileService.Data\obj\Release\netcoreapp3.0\win-x64\UsuarioProfileService.Data.AssemblyInfoInputs.cache
+D:\UPC\fsdf\UsuarioProfileService\UsuarioProfileService.Data\obj\Release\netcoreapp3.0\win-x64\UsuarioProfileService.Data.AssemblyInfo.cs
+D:\UPC\fsdf\UsuarioProfileService\UsuarioProfileService.Data\obj\Release\netcoreapp3.0\win-x64\UsuarioProfileService.Data.csproj.CoreCompileInputs.cache
+D:\UPC\fsdf\UsuarioProfileService\UsuarioProfileService.Data\obj\Release\netcoreapp3.0\win-x64\UsuarioProfileService.Data.csproj.CopyComplete
+D:\UPC\fsdf\UsuarioProfileService\UsuarioProfileService.Data\obj\Release\netcoreapp3.0\win-x64\UsuarioProfileService.Data.dll
+D:\UPC\fsdf\UsuarioProfileService\UsuarioProfileService.Data\obj\Release\netcoreapp3.0\win-x64\UsuarioProfileService.Data.pdb
+D:\UPC\fsdf\UsuarioProfileService\UsuarioProfileService.Data\obj\Release\netcoreapp3.0\win-x64\UsuarioProfileService.Data.genruntimeconfig.cache

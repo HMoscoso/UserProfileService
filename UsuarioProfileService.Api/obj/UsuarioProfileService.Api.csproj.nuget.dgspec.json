@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UPC\\UserProfileService\\UsuarioProfileService\\UsuarioProfileService.Api\\UsuarioProfileService.Api.csproj": {}
+    "D:\\UPC\\fsdf\\UsuarioProfileService\\UsuarioProfileService.Api\\UsuarioProfileService.Api.csproj": {}
   },
   "projects": {
-    "D:\\UPC\\UserProfileService\\UsuarioProfileService\\UsuarioProfileService.Api\\UsuarioProfileService.Api.csproj": {
+    "D:\\UPC\\fsdf\\UsuarioProfileService\\UsuarioProfileService.Api\\UsuarioProfileService.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UPC\\UserProfileService\\UsuarioProfileService\\UsuarioProfileService.Api\\UsuarioProfileService.Api.csproj",
+        "projectUniqueName": "D:\\UPC\\fsdf\\UsuarioProfileService\\UsuarioProfileService.Api\\UsuarioProfileService.Api.csproj",
         "projectName": "UsuarioProfileService.Api",
-        "projectPath": "D:\\UPC\\UserProfileService\\UsuarioProfileService\\UsuarioProfileService.Api\\UsuarioProfileService.Api.csproj",
+        "projectPath": "D:\\UPC\\fsdf\\UsuarioProfileService\\UsuarioProfileService.Api\\UsuarioProfileService.Api.csproj",
         "packagesPath": "C:\\Users\\hilla\\.nuget\\packages\\",
-        "outputPath": "D:\\UPC\\UserProfileService\\UsuarioProfileService\\UsuarioProfileService.Api\\obj\\",
+        "outputPath": "D:\\UPC\\fsdf\\UsuarioProfileService\\UsuarioProfileService.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hilla\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "netcoreapp3.0": {
             "targetAlias": "netcoreapp3.0",
             "projectReferences": {
-              "D:\\UPC\\UserProfileService\\UsuarioProfileService\\UsuarioProfileService.Data\\UsuarioProfileService.Data.csproj": {
-                "projectPath": "D:\\UPC\\UserProfileService\\UsuarioProfileService\\UsuarioProfileService.Data\\UsuarioProfileService.Data.csproj"
+              "D:\\UPC\\fsdf\\UsuarioProfileService\\UsuarioProfileService.Data\\UsuarioProfileService.Data.csproj": {
+                "projectPath": "D:\\UPC\\fsdf\\UsuarioProfileService\\UsuarioProfileService.Data\\UsuarioProfileService.Data.csproj"
               },
-              "D:\\UPC\\UserProfileService\\UsuarioProfileService\\UsuarioProfileService.Entities\\UsuarioProfileService.Entities.csproj": {
-                "projectPath": "D:\\UPC\\UserProfileService\\UsuarioProfileService\\UsuarioProfileService.Entities\\UsuarioProfileService.Entities.csproj"
+              "D:\\UPC\\fsdf\\UsuarioProfileService\\UsuarioProfileService.Entities\\UsuarioProfileService.Entities.csproj": {
+                "projectPath": "D:\\UPC\\fsdf\\UsuarioProfileService\\UsuarioProfileService.Entities\\UsuarioProfileService.Entities.csproj"
               }
             }
           }
@@ -82,6 +82,10 @@
               "version": "[3.0.1, 3.0.1]"
             },
             {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[3.0.3, 3.0.3]"
+            },
+            {
               "name": "Microsoft.NETCore.App.Host.win-x64",
               "version": "[3.0.3, 3.0.3]"
             },
@@ -90,8 +94,16 @@
               "version": "[3.0.0, 3.0.0]"
             },
             {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[3.0.3, 3.0.3]"
+            },
+            {
               "name": "Microsoft.WindowsDesktop.App.Ref",
               "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[3.0.3, 3.0.3]"
             }
           ],
           "frameworkReferences": {
@@ -104,16 +116,21 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
       }
     },
-    "D:\\UPC\\UserProfileService\\UsuarioProfileService\\UsuarioProfileService.Data\\UsuarioProfileService.Data.csproj": {
+    "D:\\UPC\\fsdf\\UsuarioProfileService\\UsuarioProfileService.Data\\UsuarioProfileService.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UPC\\UserProfileService\\UsuarioProfileService\\UsuarioProfileService.Data\\UsuarioProfileService.Data.csproj",
+        "projectUniqueName": "D:\\UPC\\fsdf\\UsuarioProfileService\\UsuarioProfileService.Data\\UsuarioProfileService.Data.csproj",
         "projectName": "UsuarioProfileService.Data",
-        "projectPath": "D:\\UPC\\UserProfileService\\UsuarioProfileService\\UsuarioProfileService.Data\\UsuarioProfileService.Data.csproj",
+        "projectPath": "D:\\UPC\\fsdf\\UsuarioProfileService\\UsuarioProfileService.Data\\UsuarioProfileService.Data.csproj",
         "packagesPath": "C:\\Users\\hilla\\.nuget\\packages\\",
-        "outputPath": "D:\\UPC\\UserProfileService\\UsuarioProfileService\\UsuarioProfileService.Data\\obj\\",
+        "outputPath": "D:\\UPC\\fsdf\\UsuarioProfileService\\UsuarioProfileService.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hilla\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -130,8 +147,8 @@
           "netcoreapp3.0": {
             "targetAlias": "netcoreapp3.0",
             "projectReferences": {
-              "D:\\UPC\\UserProfileService\\UsuarioProfileService\\UsuarioProfileService.Entities\\UsuarioProfileService.Entities.csproj": {
-                "projectPath": "D:\\UPC\\UserProfileService\\UsuarioProfileService\\UsuarioProfileService.Entities\\UsuarioProfileService.Entities.csproj"
+              "D:\\UPC\\fsdf\\UsuarioProfileService\\UsuarioProfileService.Entities\\UsuarioProfileService.Entities.csproj": {
+                "projectPath": "D:\\UPC\\fsdf\\UsuarioProfileService\\UsuarioProfileService.Entities\\UsuarioProfileService.Entities.csproj"
               }
             }
           }
@@ -186,25 +203,27 @@
             }
           ],
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
       }
     },
-    "D:\\UPC\\UserProfileService\\UsuarioProfileService\\UsuarioProfileService.Entities\\UsuarioProfileService.Entities.csproj": {
+    "D:\\UPC\\fsdf\\UsuarioProfileService\\UsuarioProfileService.Entities\\UsuarioProfileService.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UPC\\UserProfileService\\UsuarioProfileService\\UsuarioProfileService.Entities\\UsuarioProfileService.Entities.csproj",
+        "projectUniqueName": "D:\\UPC\\fsdf\\UsuarioProfileService\\UsuarioProfileService.Entities\\UsuarioProfileService.Entities.csproj",
         "projectName": "UsuarioProfileService.Entities",
-        "projectPath": "D:\\UPC\\UserProfileService\\UsuarioProfileService\\UsuarioProfileService.Entities\\UsuarioProfileService.Entities.csproj",
+        "projectPath": "D:\\UPC\\fsdf\\UsuarioProfileService\\UsuarioProfileService.Entities\\UsuarioProfileService.Entities.csproj",
         "packagesPath": "C:\\Users\\hilla\\.nuget\\packages\\",
-        "outputPath": "D:\\UPC\\UserProfileService\\UsuarioProfileService\\UsuarioProfileService.Entities\\obj\\",
+        "outputPath": "D:\\UPC\\fsdf\\UsuarioProfileService\\UsuarioProfileService.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hilla\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -263,14 +282,16 @@
             }
           ],
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     }
